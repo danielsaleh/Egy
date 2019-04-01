@@ -1,0 +1,89 @@
+/*colors of the website:
+blue : #1D68B3
+light orange: #FBB040
+dark orange: #EA6E24
+*/
+a {
+	color: #1D68B3;
+	text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+	color: #1D68B3;
+	text-decoration: none;
+}
+
+
+.header-with-topbar .navbar-nav .nav-link.active,
+.header-white .navbar-nav .nav-link.active,
+.header-transparent .navbar-nav .nav-link.active,
+.header-transparent-dark .navbar-nav .nav-link.active,
+.portfolio-filter-01 .filter li.active,
+.list-style-theme li:before,
+.color-theme {
+	color: #EA6E24;
+}
+
+
+.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:after,
+.header-style-02 .navbar .top-menu .nav-link:hover:after,
+.header-style-02 .navbar .top-menu .nav-link.active:after,
+.list-style-2 li:before,
+.list-style-3 li:before,
+.accordion-04 .mrig-heading,
+.accordion-05 .mrig-heading,
+.accordion-06 .mrig-heading,
+.accordion-07 .mrig-heading,
+.theme-bg,
+.m-btn-icon,
+.m-btn,
+.badge-primary,
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link,
+.bg-primary,
+.btn-primary,
+.pagination > .active > a,
+.pagination > .active > a:focus,
+.pagination > .active > a:hover,
+.pagination > .active > span,
+.pagination > .active > span:focus,
+.pagination > .active > span:hover,
+.pagination li a:focus,
+.pagination li a:hover,
+.pagination li span:focus,
+.pagination li span:hover,
+.page-item.active .page-link,
+.list-style-tag li a,
+.theme-bg-on-hover:hover .theme-bg-hover,
+.portfolio-filter-01 .filter li:after {
+	background-color: #1D68B3;
+}
+
+.btn-primary,
+.m-btn,
+.list-style-4.list-style-color li {
+	border-color: #1D68B3;
+}
+
+.border-theme { border-color: #1D68B3; }
+.border-theme-b { border-bottom-color: #1D68B3; }
+.border-theme-t { border-top-color: #1D68B3; }
+.border-theme-l { border-left-color: #1D68B3; }
+.border-theme-r { border-right-color: #1D68B3; }
+
+
+.theme-g-bg{
+	background: #1D68B3;
+	background: -moz-linear-gradient(left, #1D68B3 0%, #000 100%);
+	background: -webkit-linear-gradient(left, #1D68B3 0%,#000 100%);
+	background: linear-gradient(to right, #1D68B3 0%,#000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FBB040', endColorstr='#000',GradientType=1 );
+}
+.size-l{
+ width: 50px;
+}
+.size-r{
+	width: 100px;
+}
